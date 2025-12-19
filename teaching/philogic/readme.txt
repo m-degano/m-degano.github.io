@@ -6,7 +6,7 @@ Parts of Lecture 3 on semantic theories of truth is based on earlier lectures by
 
 **Assignment 3:** Exercise 1 relates to the Chrysippus Intuition problem discussed by Anil Gupta.
 
-**Assignment 4:** Exercise 2 asks to prove the general form of soundness for an axiomatic system for tautological entailment, which is left to the reader in Belnap & Anderson’s work. Part of Exercise 3 on non-vacuous convex truthmaking was suggested by Soren Knudstorp, who was a TA for the course. The notion of non-vacuous convex truthmaking has been discussed in Fine & Jago (2019).
+**Assignment 4:** Exercise 2 asks to prove the general form of soundness for an axiomatic system for tautological entailment, which is left to the reader in Belnap & Anderson’s work. Part of Exercise 3 on non-vacuous convex truthmaking was suggested by Soren Knudstorp, who was a TA for the course. The notion of non-vacuous convex truthmaking was introduced in Fine & Jago (2019).
 
 **Assignment 5:** The exercises elaborate on earlier exercises contained in Frank Veltman's lecture notes on counterfactuals.
 
